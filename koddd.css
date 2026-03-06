@@ -3,19 +3,19 @@
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background: linear-gradient(120deg, gray, orange, lightorange);
+  background: linear-gradient(120deg, #FF4500, #FF7F50, #FFA07A);
 }
 a {
-  color: white;
+  color: #FFFFFF;
 }
 
 a:visited {
   
-  color: lightgray;
+  color: #808080;
       }
       
 a:hover {
-  color: black;
+  color: #000000;
       }
 	  ul {
   list-style: none;
@@ -95,7 +95,7 @@ a:hover {
   border-radius: 20px;
   padding: 10px 20px;
   color: #FFF;
-  background-color: darkgray;
+  background-color: #696969;
 }
 .landing-page .content .container {
   display: flex;
@@ -143,7 +143,7 @@ a:hover {
   margin-top: 30px;
   cursor: pointer;
   color: #FFF;
-  background-color: white;
+  background-color: #696969;
 }
 .landing-page .content .image img {
   max-width: 120%;
