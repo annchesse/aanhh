@@ -287,7 +287,7 @@ ol, ul {
 
   position: relative;
 
-  margin-top: -300px;
+  top: -300px;
 
 }
 
@@ -319,10 +319,6 @@ label {
   color: #f4f4f4;
 
   transition: all 0.3s ease 0s;
-  
- .box-front {
-  position: absolute;
-  z-index: 10;
 
 }
 
@@ -489,4 +485,12 @@ input:checked + .slider:before {
 
  width: 20%;
 }
+.foto {
+	margin-top: -150px;
+
+ margin-left: -110px;
+
+
+ width: 20%;
+
 
