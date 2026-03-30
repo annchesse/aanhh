@@ -319,6 +319,10 @@ label {
   color: #f4f4f4;
 
   transition: all 0.3s ease 0s;
+  
+ .box-front {
+  position: absolute;
+  z-index: 10;
 
 }
 
